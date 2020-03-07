@@ -1,0 +1,6 @@
+= Aprendiendo los básicos de Docker
+
+En este repo estoy poniendo lo básico que estoy aprendiendo de Docker.
+
+
+== Imágenes
