@@ -3,4 +3,15 @@
 En este repo estoy poniendo lo básico que estoy aprendiendo de Docker.
 
 
+== Conceptos principales
+
+* Imagen - Describe el entorno que se va a correr y los componentes por capas.
+** Capas
+
+* Contenedor - Es una imagen en ejecución. Es un ambiente corriendo que mantiene todos requerimientos establecidos por la imagen aislados, pero aprovecha algunas de las cosas provistas por el sistema operativo anfitrión.
+
+** Ciclo de Vida
+
 == Imágenes
+
+Docker mantiene un repositorio de imágenes oficial del que puedes extraer algunas para usarlas en tus contenedores.
