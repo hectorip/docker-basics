@@ -15,3 +15,7 @@ En este repo estoy poniendo lo básico que estoy aprendiendo de Docker.
 == Imágenes
 
 Docker mantiene un repositorio de imágenes oficial del que puedes extraer algunas para usarlas en tus contenedores.
+
+== Contenedores
+
+== Contenerización (Dockerización)
